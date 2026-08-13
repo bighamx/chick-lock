@@ -24,6 +24,10 @@ Press any key or click anywhere to spawn a unique chicken. Chickens wander aroun
 - ⌨️ **输入法兼容** — 中文输入法组合拼音时按键同样出鸡（IME 兼容，防丢按键）
 - 🔒 **家长逃生** — `Ctrl+Alt+Q` 退出；`Ctrl+Alt+Del` 是系统级后门，永远有效
 
+## 📸 截图 Screenshot
+
+![小鸡乐园截图](screenshot.png)
+
 ## 🖥️ 运行环境 Requirements
 
 | 项目 | 要求 |

@@ -1,0 +1,7 @@
+Chick sprite asset
+
+Source: OpenGameArt - Chick by AntumDeluge
+Original page: https://opengameart.org/content/chick
+License: Creative Commons Zero (CC0)
+
+The sprite is redistributed in this repository under CC0. Attribution is not required, but the source is recorded here for provenance.
